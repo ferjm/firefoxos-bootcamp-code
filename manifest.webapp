@@ -1,0 +1,14 @@
+{
+  "name": "FirefoxOSApp",
+  "description": "A basic Firefox OS app",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fernando Jiménez",
+    "url": "http://github.com/ferjm"
+  },
+  "icons": {
+    "128": "/icons/128.png",
+    "60": "/icons/60.png"
+  },
+  "orientation": "portrait"
+}
